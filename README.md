@@ -13,11 +13,11 @@ This is a simple web scraper built in Python to scrape news articles from Hacker
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/hackernews-scraper.git
+   git clone https://github.com/your-username/HackerNewsWebScraper.git
     ```
 2. Navigate to the project directory:
     ```bash
-   cd hackernews-scraper
+   cd HackerNewsWebScraper
     ```
 3. Install the required dependencies using pip:
     ```bash
