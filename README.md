@@ -21,7 +21,7 @@ This is a simple web scraper built in Python to scrape news articles from Hacker
     ```
 3. Install the required dependencies using pip:
     ```bash
-   pip install -r requirements.txt
+   pip install beautifulsoup4, requests
     ```
 
 ## Usage
