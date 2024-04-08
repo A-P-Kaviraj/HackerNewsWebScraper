@@ -28,6 +28,6 @@ This is a simple web scraper built in Python to scrape news articles from Hacker
 
 To use the scraper, simply run the hackernews_scraper.py script. It will scrape HackerNews for articles with votes higher than 99 and print out their titles, links, and vote counts.
  ```bash
-   python hackernews_scraper.py
+   python scrape.py
  ```
 
